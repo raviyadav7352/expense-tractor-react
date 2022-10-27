@@ -1,0 +1,22 @@
+.users {
+    width: 70%;
+    max-width: 40rem;
+}
+
+.users ul {
+    list-style: none;
+    /* padding: 0.5rem 1rem; */
+}
+  
+.users li {
+    border: 1px solid #ccc;
+    margin: 1rem;
+    padding: 0.5rem;
+    border-radius: 8px;
+    background: azure;
+    font-size: 18px;
+    line-height: 1;
+    word-spacing: 4px;
+    text-align: start;
+    text-transform: capitalize;
+}

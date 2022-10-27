@@ -1,0 +1,36 @@
+.userform{
+  margin: 1rem auto;
+    width: 70%;
+    max-width: 40rem;
+    padding: 10px 40px;
+}
+.userform label{
+  display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    text-align: start;
+
+}
+.userform input{
+  display: block;
+    width: 100%;
+    height: 30px;
+    border: 1px solid #cdc;
+    font-size: 15px;
+    padding: 2px 4px;
+    margin-bottom: 6px;
+    border-radius: 4px;
+}
+/* .userform input:focus {
+outline: none;
+background: #fad0ec;
+border-color: #8b005d;
+} */
+/* .userform.invalid input{
+background-color: #daebc8;
+border-style: double;
+transition: all .7s ease-out;
+}  */
+/* .userform.invalid label{
+color: red;
+} */

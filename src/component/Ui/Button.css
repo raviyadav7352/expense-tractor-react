@@ -1,0 +1,15 @@
+.buttonc {
+    font-weight: 600;
+    font-size: 18px;
+    padding: 8px 20px;
+    background-color: #6b6be7;
+    margin: 8px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+    box-shadow: 0 0 4px rgb(0 0 0 / 30%);
+}
+.buttonc:hover{
+    background-color: #0957b0;
+  }
